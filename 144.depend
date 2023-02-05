@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642983976 source:c:\users\023da\onedrive\dokumenty\codeblocks\144\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	<cstdlib>
+	<string.h>
+
